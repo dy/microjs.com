@@ -203,6 +203,14 @@ module.exports = [
     source: ["https://unpkg.com/subscript@1.0.5/subscript.js"]
   },
   {
+    name: "sprae",
+    github: "dy/sprae",
+    tags: ["signals", "DOM", "hydration", "progressive enhancement", "framework", "eval", "CSP", "preact-signals", "reactive", "alpine", "petite-vue"],
+    description: "DOM tree microhydration: open progressive enhancement framework with preact-signals reactivity. A fast & light alternative to alpinejs",
+    url: "https://github.com/dy/sprae",
+    source: ["https://unpkg.com/sprae@11.0.8/dist/sprae.js"]
+  },
+  {
     name: "blobcounter.js",
     github: "satrobit/blobcounter.js",
     tags: ["blob", "image", "canvas", "processing", "2D", "blobcounter"],
